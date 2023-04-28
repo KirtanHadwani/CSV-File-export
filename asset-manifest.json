@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CSV-File-export/static/css/main.52319879.css",
+    "main.js": "/CSV-File-export/static/js/main.577d9b4d.js",
+    "static/js/787.100ac1db.chunk.js": "/CSV-File-export/static/js/787.100ac1db.chunk.js",
+    "index.html": "/CSV-File-export/index.html",
+    "main.52319879.css.map": "/CSV-File-export/static/css/main.52319879.css.map",
+    "main.577d9b4d.js.map": "/CSV-File-export/static/js/main.577d9b4d.js.map",
+    "787.100ac1db.chunk.js.map": "/CSV-File-export/static/js/787.100ac1db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52319879.css",
+    "static/js/main.577d9b4d.js"
+  ]
+}
