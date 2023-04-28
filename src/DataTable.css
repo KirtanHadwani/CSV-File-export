@@ -1,0 +1,30 @@
+.btn {
+  margin-right: 20px;
+}
+
+ .search {
+  width: 900px;
+  height: 40px;
+  border: 0.5px solid gray;
+  border-radius: 5px;
+  margin-left: 105px;
+  /* margin-right: 1px;
+  margin-left: 34%; */
+} 
+.export {
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(121, 121, 240);
+  color: white;
+  height: 38px;
+}
+.loginbtn {
+  border: none;
+  border-radius: 5px;
+  background-color: #bb2d3b;
+  color: white;
+  height: 43px;
+  width: 100px;
+  margin-left: 787px;
+  float: right;
+}

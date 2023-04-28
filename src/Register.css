@@ -1,0 +1,16 @@
+.errorMsg {
+  color: tomato;
+}
+.accPara {
+  color: black;
+}
+.formContainer {
+  margin-right: 52px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  width: 500px;
+}
+.registerImg img {
+  height: 563px;
+  width: 614px;
+}
